@@ -51,7 +51,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+
 
 
 
@@ -78,23 +78,15 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lalman888&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+<div width="50%" ><img src="https://github-readme-stats.vercel.app/api?username=Lalman888&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>
+<div >
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalman888&" alt="lalman888" /></p>
+</div>
+</div>
 
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31uut4y3tclycoqou4dh3jil6m3a&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
-
+<br/> 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Lalman888&&style=flat-square" align="center" />
 </div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
