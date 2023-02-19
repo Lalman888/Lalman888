@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Lalman, a Front End freelance developer 👨‍💻 working remotely 🚀</div>  
+### <div align="center">I'm Lalman Thakur, a Front End freelance developer 👨‍💻 working remotely 🚀</div>  
   
 
 - 🔭 I’m currently working on [Visit India](https://github.com/Lalman888/visit-india)  
