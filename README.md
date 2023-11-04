@@ -32,9 +32,7 @@
 
 <h1>My GitHub Stats <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NQiH/giphy.gif" width="48" /></h1>
 
-|<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lalman888&theme=react&mode=weekly" alt="GitHub Streak" /></a>|
-|---|---|
-
+|<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lalman888&theme=react&mode=weekly" alt="GitHub Streak" /></a>
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=lalman888&theme=onedark" alt="lalman888" /> 
