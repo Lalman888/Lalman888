@@ -30,14 +30,7 @@
 <li>Explore my website: https://lalman-thakur.vercel.app</li>
 </ul>
 
-<h1>My GitHub Stats <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NQiH/giphy.gif" width="48" /></h1>
 
-|<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lalman888&theme=react&mode=weekly" alt="GitHub Streak" /></a>
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lalman888&theme=onedark" alt="lalman888" /> 
-  </a>
-</p>
 
 <h1>Weapons <img src="https://media.giphy.com/media/2yzGTewUsGil0LFCTv/giphy.gif" width="48" /></h1>
 
@@ -47,6 +40,8 @@
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
   <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
+  <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></a>
+<!--   https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white -->
 </p>
 
 ### 🧰 Frameworks and libraries
@@ -67,4 +62,16 @@
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 </p>
+
+<h1>My GitHub Stats <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NQiH/giphy.gif" width="48" /></h1>
+<p > 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lalman888&theme=onedark" alt="lalman888" /> 
+  </a>
+</p>
+
+<p align="center">
+<a href="https://git.io/streak-stats" ><img src="https://github-readme-streak-stats.herokuapp.com?user=lalman888&theme=react&mode=weekly"  alt="GitHub Streak" /></a>
+</p>
+
 
