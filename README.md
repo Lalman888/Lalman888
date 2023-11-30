@@ -24,10 +24,10 @@
 <ul>
 <li>I'm Lalman Thakur, a passionate coder ❤️</li>
 <li>I work as a freelance full-stack developer 🖥️ and Devops enthusiast 🐳</li>
-<li>Currently, I'm delving into the world of Go programming while containerizing my applications with Docker 😅</li>
+<li>Currently, I'm delving into the world of Go programming while containerizing my applications with Docker 😅 and deploying on aws</li>
 <li>Pursuing a B.Tech in Computer Science at Chandigarh University 🎓</li>
 <li><b>Relationship Status:</b> Committed to Next.js and Docker ❤️🐳</li>
-<li>Explore my website: https://lalman-thakur.vercel.app</li>
+<li>Explore my website: [https://lalman-thakur.vercel.app](http://lalmanthakur.co/)</li>
 </ul>
 
 
