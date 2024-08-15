@@ -27,7 +27,7 @@
 <li>Currently, I'm delving into the world of Go programming while containerizing my applications with Docker 😅 and deploying on aws</li>
 <li>Pursuing a B.Tech in Computer Science at Chandigarh University 🎓</li>
 <li><b>Relationship Status:</b> Committed to Next.js and Docker ❤️🐳</li>
-<li>Explore my website: [https://lalmanthakur.co](https://lalmanthakur.vercel.app/) </li>
+<li>Explore my website: [Portfolio](https://lalmanthakur.vercel.app/) </li>
 </ul>
 
 
