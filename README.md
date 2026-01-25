@@ -28,7 +28,7 @@
 <li>Built comprehensive job platforms, AI communication systems (voice chat, avatar chat, AI calling), and CRM integrations 🎯</li>
 <li>Graduating with B.Tech in Computer Science from Chandigarh University (2025) 🎓</li>
 <li><b>Relationship Status:</b> In a committed relationship with Next.js, Docker, and LangChain ❤️🐳🤖</li>
-<li>Explore my portfolio: <a href="https://lalman-thakur.vercel.app">lalman-thakur.vercel.app</a></li>
+<li>Explore my portfolio: <a href="[https://lalman-thakur.vercel.app](https://thakur-lalman.vercel.app/)">[lalman-thakur.vercel.app](https://thakur-lalman.vercel.app/)</a></li>
 
 </ul>
 
