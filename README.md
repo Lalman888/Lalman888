@@ -21,7 +21,7 @@
 
 - Full Stack Engineer with 3+ years of experience building production-grade web, mobile, and AI-powered applications
 - Currently working on fintech payment and lending infrastructure — NMI and e-commerce integrations, and an AI-driven loan eligibility system
-- Previously built AI-powered clinical trial platforms at RickyTech, handling complex multi-stakeholder workflows
+- I have built AI-powered clinical trial platforms at RickyTech, handling complex multi-stakeholder workflows
 - Core stack: React, Next.js, TypeScript, Python, Go, with NestJS, FastAPI, and Express.js on the backend
 - AI integrations using LangChain and Pinecone — voice chat, AI avatar chat, and agentic communication systems
 - Deploy and manage infrastructure on AWS and GCP with Docker, Nginx, and GitHub Actions CI/CD
